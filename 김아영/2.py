@@ -1,1 +1,1 @@
-print(454535/310)
+print("Hello World")
