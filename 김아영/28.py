@@ -1,2 +1,2 @@
 ten=int(input())
-print('%x'%ten)
+print('%X'%ten)
