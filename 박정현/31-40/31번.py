@@ -20,4 +20,4 @@ chr( )는 정수값->문자, ord( )는 문자->정수값 형태로 바꿔주는 
 '''
 
 num = int(input())
-print(chr(num))
+print(chr(num)) #
