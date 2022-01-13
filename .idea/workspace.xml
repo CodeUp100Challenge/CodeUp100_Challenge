@@ -36,6 +36,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -184,6 +185,8 @@
       <workItem from="1641898155006" duration="2581000" />
       <workItem from="1641901360025" duration="66000" />
       <workItem from="1641960571570" duration="1940000" />
+      <workItem from="1642049861378" duration="609000" />
+      <workItem from="1642050478004" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="인원추가">
       <created>1641370710645</created>
