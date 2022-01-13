@@ -11,6 +11,6 @@ Details
 Participants : jhPark, a0kim, SIMOOLOOK<p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwjdgus&show_icons=true&theme=onedark&include_all_commits) <p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwjdgus&show_icons=true&theme=onedark&include_all_commits=true) <p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0Kim&show_icons=true&theme=onedark&include_all_commits=true) <p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIMOOLOOK&show_icons=true&theme=onedark&include_all_commits=true) 
