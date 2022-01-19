@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65878b4e-c058-447b-9156-434ab1a391e3" name="변경" comment="문제 업로드">
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/51번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/52번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/53번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/54번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/55번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/56번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/57번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/58번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/51-60/59번.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="65878b4e-c058-447b-9156-434ab1a391e3" name="변경" comment="문제 업로드" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1642051855379</updated>
       <workItem from="1642051858834" duration="1374000" />
-      <workItem from="1642140725398" duration="1972000" />
+      <workItem from="1642140725398" duration="2174000" />
     </task>
     <task id="LOCAL-00001" summary="문제 업로드 41-50">
       <created>1642053156060</created>
@@ -191,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642053156060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="문제 업로드">
+      <created>1642143366059</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1642143366059</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +207,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="문제 업로드 41-50" />
-    <option name="LAST_COMMIT_MESSAGE" value="문제 업로드 41-50" />
+    <MESSAGE value="문제 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="문제 업로드" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$49.coverage" NAME="49번 커버리지 결과" MODIFIED="1642053056015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
@@ -220,11 +217,13 @@
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$45.coverage" NAME="45번 커버리지 결과" MODIFIED="1642052677887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$48.coverage" NAME="48번 커버리지 결과" MODIFIED="1642053017138" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$50.coverage" NAME="50번 커버리지 결과" MODIFIED="1642053101246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
+    <SUITE FILE_PATH="coverage/CodeUp100_Challenge$60.coverage" NAME="60번 커버리지 결과" MODIFIED="1642143333171" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$58.coverage" NAME="58번 커버리지 결과" MODIFIED="1642143056978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$54.coverage" NAME="54번 커버리지 결과" MODIFIED="1642141567084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$57.coverage" NAME="57번 커버리지 결과" MODIFIED="1642142914919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$44.coverage" NAME="44번 커버리지 결과" MODIFIED="1642052159242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$47.coverage" NAME="47번 커버리지 결과" MODIFIED="1642052950115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
+    <SUITE FILE_PATH="coverage/CodeUp100_Challenge$59.coverage" NAME="59번 커버리지 결과" MODIFIED="1642143270072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$56.coverage" NAME="56번 커버리지 결과" MODIFIED="1642141688500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$52.coverage" NAME="52번 커버리지 결과" MODIFIED="1642141374357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
   </component>
