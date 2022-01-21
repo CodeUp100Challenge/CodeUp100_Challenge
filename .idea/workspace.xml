@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65878b4e-c058-447b-9156-434ab1a391e3" name="변경" comment="~ 80 문제 업로드">
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/81번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/82번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/83번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/84번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/85번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/86번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/87번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/88번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/89번.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/박정현/81-90/90번.py" afterDir="false" />
+    <list default="true" id="65878b4e-c058-447b-9156-434ab1a391e3" name="변경" comment="~ 90 문제 업로드">
+      <change afterPath="$PROJECT_DIR$/박정현/91-100/91번.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/박정현/91-100/92번.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,51 +46,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Python.90번">
-    <configuration name="86번" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeUp100_Challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/박정현/81-90" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/박정현/81-90/86번.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="87번" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CodeUp100_Challenge" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/박정현/81-90" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/박정현/81-90/87번.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.92번">
     <configuration name="88번" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CodeUp100_Challenge" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +113,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="91번" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeUp100_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/박정현/91-100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/박정현/91-100/91번.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="92번" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="CodeUp100_Challenge" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/박정현/91-100" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/박정현/91-100/92번.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.92번" />
+        <item itemvalue="Python.91번" />
         <item itemvalue="Python.90번" />
         <item itemvalue="Python.89번" />
         <item itemvalue="Python.88번" />
-        <item itemvalue="Python.87번" />
-        <item itemvalue="Python.86번" />
       </list>
     </recent_temporary>
   </component>
@@ -187,7 +179,7 @@
       <workItem from="1642140725398" duration="2174000" />
       <workItem from="1642672144801" duration="4710000" />
       <workItem from="1642744025430" duration="170000" />
-      <workItem from="1642744216003" duration="4438000" />
+      <workItem from="1642744216003" duration="6444000" />
     </task>
     <task id="LOCAL-00001" summary="문제 업로드 41-50">
       <created>1642053156060</created>
@@ -217,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1642676882044</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="~ 90 문제 업로드">
+      <created>1642749434973</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1642749434973</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,11 +238,13 @@
     <MESSAGE value="문제 업로드 41-50" />
     <MESSAGE value="문제 업로드" />
     <MESSAGE value="~ 80 문제 업로드" />
-    <option name="LAST_COMMIT_MESSAGE" value="~ 80 문제 업로드" />
+    <MESSAGE value="~ 90 문제 업로드" />
+    <option name="LAST_COMMIT_MESSAGE" value="~ 90 문제 업로드" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$62.coverage" NAME="62번 커버리지 결과" MODIFIED="1642672284657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/61-70" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$65.coverage" NAME="65번 커버리지 결과" MODIFIED="1642673521500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/61-70" />
+    <SUITE FILE_PATH="coverage/CodeUp100_Challenge$91.coverage" NAME="91번 커버리지 결과" MODIFIED="1642750669366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/91-100" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$53.coverage" NAME="53번 커버리지 결과" MODIFIED="1642141506014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$68.coverage" NAME="68번 커버리지 결과" MODIFIED="1642673979491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/61-70" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$45.coverage" NAME="45번 커버리지 결과" MODIFIED="1642052677887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
@@ -258,6 +259,7 @@
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$76.coverage" NAME="76번 커버리지 결과" MODIFIED="1642675255433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/71-80" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$47.coverage" NAME="47번 커버리지 결과" MODIFIED="1642052950115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/41-50" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$79.coverage" NAME="79번 커버리지 결과" MODIFIED="1642676693670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/71-80" />
+    <SUITE FILE_PATH="coverage/CodeUp100_Challenge$92.coverage" NAME="92번 커버리지 결과" MODIFIED="1642751336512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/91-100" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$83.coverage" NAME="83번 커버리지 결과" MODIFIED="1642745597646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/81-90" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$59.coverage" NAME="59번 커버리지 결과" MODIFIED="1642143270072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/51-60" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$88.coverage" NAME="88번 커버리지 결과" MODIFIED="1642748555997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/81-90" />
@@ -278,6 +280,7 @@
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$70.coverage" NAME="70번 커버리지 결과" MODIFIED="1642674423046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/61-70" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$89.coverage" NAME="89번 커버리지 결과" MODIFIED="1642748699471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/81-90" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$66.coverage" NAME="66번 커버리지 결과" MODIFIED="1642673609002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/61-70" />
+    <SUITE FILE_PATH="coverage/CodeUp100_Challenge$90.coverage" NAME="90번 커버리지 결과" MODIFIED="1642749401801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/81-90" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$61.coverage" NAME="61번 커버리지 결과" MODIFIED="1642672239094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/61-70" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$78.coverage" NAME="78번 커버리지 결과" MODIFIED="1642675897393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/71-80" />
     <SUITE FILE_PATH="coverage/CodeUp100_Challenge$84.coverage" NAME="84번 커버리지 결과" MODIFIED="1642745934277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/박정현/81-90" />
