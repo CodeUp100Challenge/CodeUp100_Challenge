@@ -21,5 +21,5 @@ python 프로그래밍을 처음 배울 때 좋은 습관(단계)
 
 a, b, c = list(map(int, input().split()))
 sum = a+b+c
-avg =float(sum)/3.0
-print(sum, round(avg, 2))
+avg = sum/3.000000000
+print(sum, format(avg, ".2f"))
