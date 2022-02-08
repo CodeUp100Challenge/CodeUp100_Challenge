@@ -23,25 +23,17 @@ def checker_change(tile, x, y):
     '''
 
     for t in range(19):
-        if tile[x][t] == '1':
-            tile[x][t] = '0'
-
-        elif tile[x][t] == '0':
-            tile[x][t] = '1'
+        tile[x][t] = int(bool(not tile[x][t]))
 
     for t in range(19):
-        if tile[t][y] == '1':
-            tile[t][y] = '0'
-
-        elif tile[t][y] == '0':
-            tile[t][y] = '1'
+        tile[t][y] = int(bool(not tile[t][y]))
 
     return tile
 
 tile = [] # 바둑판
 
 for i in range(19): # 19 * 19 짜리 바둑판 생성
-    checkers = list(map(str, input().split()))
+    checkers = list(map(int, input().split()))
     tile.append(checkers)
 
 flip_count = int(input())
@@ -53,9 +45,7 @@ for i in range(flip_count): # 뒤집기 횟수만큼 반복
     tile = checker_change(tile, x-1, y-1)
 
 
-
-for x in tile:
-    print(' '.join(x))
-
-
-
+for i in tile:
+    for j in i:
+        print(j, end=' ')
+    print()
