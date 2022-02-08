@@ -24,8 +24,6 @@ def checker_change(tile, x, y):
 
     for t in range(19):
         tile[x][t] = int(bool(not tile[x][t]))
-
-    for t in range(19):
         tile[t][y] = int(bool(not tile[t][y]))
 
     return tile
@@ -40,8 +38,6 @@ flip_count = int(input())
 
 for i in range(flip_count): # 뒤집기 횟수만큼 반복
     x, y = list(map(int, input().split()))
-
-    #[10, 12] [10, 12] 이렇게 생김
     tile = checker_change(tile, x-1, y-1)
 
 
