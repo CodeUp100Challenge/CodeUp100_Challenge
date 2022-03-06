@@ -8,9 +8,6 @@ We will solve and ask questions and answer the 100 code-up foundation.<br>
 See below for more information on the code-up foundation 100.<br>
 Details 
 <a href="https://codeup.kr/problemsetsol.php?psid=33" target="_blank">here..</a><p>
-Participants : jhPark, a0kim, SIMOOLOOK<p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pwjdgus&show_icons=true&theme=onedark&include_all_commits=true) <p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a0Kim&show_icons=true&theme=onedark&include_all_commits=true) <p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SIMOOLOOK&show_icons=true&theme=onedark&include_all_commits=true) 
+ 
