@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main() {
-	printf("Hello\n");
-	printf("World\n");
+
+	printf("\"C:\\Download\\hello.cpp\"\n");
+
 	return 0;
 }
